@@ -1,1 +1,1 @@
-# 0600dev.github.io
+# 0600dev
